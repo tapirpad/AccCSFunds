@@ -1,7 +1,5 @@
 # [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
 
-Topics covered by this Specialization include basic object-oriented programming, the analysis of asymptotic algorithmic run times, and the implementation of basic data structures including arrays, hash tables, linked lists, trees, heaps and graphs, as well as algorithms for traversals, rebalancing and shortest paths. This Specialization sequence is designed to help prospective applicants to the flexible and affordable Online Master of Computer Science (MCS) and MCS in Data Science prepare for the Online MCS Entrance Exam. The Online MCS Entrance Exam allows applicants who do not have graded and transcripted prerequisite CS coursework in the areas of data structures, algorithms, and object-oriented programming to strengthen their applications for admission.
-
 **Offered by**: University of Illinois Urbana-Champaign
 
 **Instructor**: Wade Fagen-Ulmschneider
